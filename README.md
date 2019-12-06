@@ -23,5 +23,5 @@ This is my attempt to recreate these stickers in photoshop.
   <img src="medHacks/medHacksFinal.png" width="300px"/>
 </p>
 
-[Photoshop Template](medHacks/medHacksFinal.psd)
-[PNG Image](medHacks/medHacksFinal.png)
+##### [Photoshop Template](medHacks/medHacksFinal.psd)
+##### [PNG Image](medHacks/medHacksFinal.png)
