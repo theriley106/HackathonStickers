@@ -1,12 +1,10 @@
-# Stickers
-
-This is a repo trying to recreate stickers I had on my old laptop...
-
 # What is this
 
-I recenty upgraded laptops and wanted to move all of the stickers from my old laptop to the new one.  Unfortunately, a majority of the stickers are limited print hackathon stickers and trying to move them generally ruins the adheisive on the back.
+I recenty upgraded laptops and wanted to move all of the stickers from my old laptop to the new one.  
 
-This is my attempt to recreate these stickers in photoshop.
+Unfortunately, a majority of the stickers are limited print hackathon stickers and trying to move them generally ruins the adheisive on the back.
+
+This is my attempt to recreate the "I Demoed" stickers I had on my old laptop...
 
 ## Results
 
@@ -14,7 +12,7 @@ This is my attempt to recreate these stickers in photoshop.
   <img src="laptopFinal.png" width="700px"/>
 </p>
 
-These are the printed stickers on my Macbook
+<h2 align="center">These are the recreated stickers on my new Macbook</h2>
 
 ## Requirements
 
