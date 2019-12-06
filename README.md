@@ -23,6 +23,6 @@ This is my attempt to recreate these stickers in photoshop.
   <img src="medHacks/medHacksFinal.png" width="300px"/>
 </p>
 
-<h1 align="center"><a href="medHacks/medHacksFinal.psd">Photoshop Template</a></h1>
+<h2 align="center"><a href="medHacks/medHacksFinal.psd">Photoshop Template</a></h1>
 
-<h1 align="center"><a href="medHacks/medHacksFinal.png">PNG Image</a></h1>
+<h2 align="center"><a href="medHacks/medHacksFinal.png">PNG Image</a></h1>
