@@ -14,3 +14,11 @@ This is my attempt to recreate these stickers in photoshop.
 - [Cricket/Sillhoute Cutting Machine](https://www.amazon.com/dp/B07VLB3627)
 - [Clear Spray Paint/Waterproof Coating](https://www.amazon.com/Krylon-K01305-Coatings-11-Ounce-UV-Resistant/dp/B00397STRW/ref=sr_1_5?keywords=spray+coating&qid=1575599447&sr=8-5)
 - Ink Jet Printer
+
+
+
+## Med Hacks
+
+<p align="center">
+  <img src="medHacks/medHacksFinal.png" width="700px"/>
+</p>
