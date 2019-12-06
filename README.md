@@ -8,6 +8,14 @@ I recenty upgraded laptops and wanted to move all of the stickers from my old la
 
 This is my attempt to recreate these stickers in photoshop.
 
+## Results
+
+<p align="center">
+  <img src="laptopFinal.png" width="700px"/>
+</p>
+
+These are the printed stickers on my Macbook
+
 ## Requirements
 
 - [Vinyl Sticker Paper](https://www.amazon.com/gp/product/B07NX2VK6K)
