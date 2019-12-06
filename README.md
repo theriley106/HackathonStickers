@@ -12,7 +12,7 @@ This is my attempt to recreate the "I Demoed" stickers I had on my old laptop...
   <img src="laptopFinal.png" width="700px"/>
 </p>
 
-<h2 align="center">These are the recreated stickers on my new Macbook</h2>
+<h2 align="center">^ These are the recreated stickers on my new Macbook</h2>
 
 ## Requirements
 
