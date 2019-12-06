@@ -17,8 +17,11 @@ This is my attempt to recreate these stickers in photoshop.
 
 
 
-## Med Hacks
+## Med Hacks 2018 (Johns Hopkins University)
 
 <p align="center">
   <img src="medHacks/medHacksFinal.png" width="300px"/>
 </p>
+
+[Photoshop Template](medHacks/medHacksFinal.psd)
+[PNG Image](medHacks/medHacksFinal.png)
